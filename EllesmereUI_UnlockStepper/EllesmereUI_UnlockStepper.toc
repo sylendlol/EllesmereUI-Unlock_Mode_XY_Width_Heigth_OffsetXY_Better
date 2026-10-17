@@ -1,0 +1,9 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001
+## Title: EllesmereUI |cff0cd29fUnlock Stepper|r
+## Notes: +/- buttons next to Width, Height, X/Y Position, Offset X/Y and Extra Width/Height in the Unlock Mode cog menu.
+## Author: Custom
+## Version: 1.0.0
+## Dependencies: EllesmereUI
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+UnlockStepper.lua
